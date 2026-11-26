@@ -16,5 +16,5 @@ Welcome to my CS50x portfolio! I am an incoming Systems Engineering student at *
 * *(Will be updated weekly as I complete each problem set)*
 
 ## 🎯 Academic Goal
-Preparing for international research opportunities and graduate studies in Computer Science in the **United States** or the **United Kingdom**. :) 
+Preparing for international research opportunities and graduate studies in Computer Science in the **United States** or the **United Kingdom**. 
 
